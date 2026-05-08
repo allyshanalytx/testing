@@ -1,0 +1,6 @@
+customer_id,customer_name,email,phone,city
+CUST001,Ahmad Bin Ali,ahmad@email.com,0123456789,Kuala Lumpur
+CUST002,Siti Aminah,siti@email.com,0198765432,Petaling Jaya
+CUST003,Raj Kumar,raj@email.com,0167891234,Subang Jaya
+CUST004,Lim Wei Ming,lim@email.com,0145678901,Shah Alam
+CUST005,Nurul Huda,nurul@email.com,0134567890,Putra Heights
